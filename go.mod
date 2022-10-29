@@ -1,4 +1,4 @@
-module github.com/zeromicro/ddl-parser
+module github.com/gotid/ddl-parser
 
 go 1.16
 
